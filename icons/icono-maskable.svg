@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Finanzas Personales">
+  <!-- Versión maskable (Android): fondo a sangre y contenido dentro de la zona segura (80 %) -->
+  <rect width="512" height="512" fill="#06382D"/>
+  <g transform="translate(256 256) scale(0.72) translate(-256 -254)">
+    <rect x="112" y="276" width="72" height="128" rx="18" fill="#45CC92"/>
+    <rect x="220" y="216" width="72" height="188" rx="18" fill="#7FDDB4"/>
+    <rect x="328" y="156" width="72" height="248" rx="18" fill="#E6F4EC"/>
+    <circle cx="364" cy="104" r="34" fill="#FADB3C"/>
+  </g>
+</svg>
